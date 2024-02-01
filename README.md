@@ -21,7 +21,7 @@ This project implements an Emotion Detection system using a pre-trained neural n
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/emotion-detection.git
+    git clone https://github.com/mahesh013/emotion-detection.git
     ```
 
 2. Navigate to the project directory:
@@ -41,7 +41,7 @@ This project implements an Emotion Detection system using a pre-trained neural n
 1. Run the GUI application:
 
     ```bash
-    python gui.py
+    python gui2.py
     ```
 
 2. Click the "Upload Image" button to select an image for emotion detection.
