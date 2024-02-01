@@ -67,5 +67,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Special thanks to [author name] for the inspiration and initial project structure.
+- Special thanks to NullClass for the inspiration and initial project structure.
 
